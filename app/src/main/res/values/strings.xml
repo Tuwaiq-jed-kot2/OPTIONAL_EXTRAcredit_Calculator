@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My-calculator</string>
+    <string name="num1">Enter number 1</string>
+    <string name="num2">Enter number 2</string>
+    <string name="show_re"> result</string>
+
+    <string name="delete_button">Delete</string>
+
+</resources>
